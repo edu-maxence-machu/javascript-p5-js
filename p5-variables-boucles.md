@@ -11,7 +11,7 @@ Par exemple, nous pouvons stocker dans l'exemple du Tic Tac Toe, nous pouvons st
 
 ```javascript
 var size = 900;
-var square = size / 2;
+var square = size / 3;
 
 function setup(){
     createCanvas(size, size);
