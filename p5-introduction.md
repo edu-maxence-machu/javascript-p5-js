@@ -65,3 +65,6 @@ Pour en savoir plus sur les fonctions de base : https://p5js.org/reference/
 
 ## Exercice en groupe
 [Exercice du tic-tac-toe avec P5.js](/code/exercices/tictactoe.md)
+
+## Documentation
+[Documentation P5.js](https://p5js.org/reference/)
